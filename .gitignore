@@ -1,0 +1,6 @@
+*.txt
+*.json
+__pycache__
+.idea
+
+!requirements.txt
